@@ -2,7 +2,7 @@
 
 Modelo que estima a probabilidade de um cliente **pré-aprovado** para o empréstimo com garantia de automóvel ser **enviado para análise de crédito**, para priorizar o atendimento dos leads.
 
-Este repositório tem duas versões do notebook. Este README documenta os erros encontrados na versão original e como cada um foi corrigido na versão 2.
+Este repositório tem duas versões do notebook. Este README documenta os erros encontrados na versão original (a que eu entreguei para submissão) e como cada um foi corrigido na versão 2.
 
 | Arquivo | Conteúdo |
 |---|---|
